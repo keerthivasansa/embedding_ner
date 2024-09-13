@@ -18,11 +18,11 @@
   },
   "labels":{
     "ner":[
-      "DATE",
-      "PERSON",
-      "PLACE",
-      "SERVICE",
-      "TIME"
+      "CONDITION",
+      "DRUG",
+      "PROCEDURE / TEST",
+      "PROCEDURE / TESTS",
+      "SYMPTOM"
     ]
   },
   "pipeline":[
