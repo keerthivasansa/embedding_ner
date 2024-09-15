@@ -1,0 +1,182 @@
+{
+    "classes": ["Case Citation", "Person", "Location"],
+    "annotations": [
+      ["In Roe v. Wade, 410 U.S. 113 (1973), the Supreme Court, led by Justice Harry Blackmun, ruled on abortion rights in Washington, D.C. This case, decided at the U.S. Supreme Court's building, continues to impact legislative discussions in Texas.",
+        {
+          "entities": [
+            [3, 16, "Case Citation"],
+            [41, 56, "Person"],
+            [76, 91, "Location"],
+            [113, 118, "Location"]
+          ]
+        }
+      ],
+      ["Brown v. Board of Education, 347 U.S. 483 (1954), was decided by the U.S. Supreme Court, with Chief Justice Earl Warren presiding. The case addressed school desegregation in Topeka, Kansas, marking a significant shift in civil rights law.",
+        {
+          "entities": [
+            [0, 27, "Case Citation"],
+            [60, 74, "Person"],
+            [96, 110, "Location"]
+          ]
+        }
+      ],
+      ["The landmark ruling in Marbury v. Madison, 5 U.S. (1 Cranch) 137 (1803), involved Chief Justice John Marshall and was delivered in Washington, D.C. This case set the precedent for judicial review and was significant for future rulings in New York.",
+        {
+          "entities": [
+            [26, 49, "Case Citation"],
+            [62, 80, "Person"],
+            [106, 121, "Location"],
+            [141, 149, "Location"]
+          ]
+        }
+      ],
+      ["In Miranda v. Arizona, 384 U.S. 436 (1966), the Supreme Court, with Justice Earl Warren, mandated the reading of rights to suspects in Phoenix, Arizona. This ruling, affecting police procedures nationwide, has had lasting implications in California.",
+        {
+          "entities": [
+            [3, 20, "Case Citation"],
+            [51, 67, "Person"],
+            [78, 88, "Location"],
+            [99, 109, "Location"]
+          ]
+        }
+      ],
+      ["Gideon v. Wainwright, 372 U.S. 335 (1963), was a pivotal case decided by the U.S. Supreme Court in Washington, D.C. Justice Hugo Black's decision guaranteed legal counsel for defendants in Florida, shaping future criminal defense standards.",
+        {
+          "entities": [
+            [0, 15, "Case Citation"],
+            [38, 50, "Person"],
+            [72, 87, "Location"],
+            [107, 116, "Location"]
+          ]
+        }
+      ],
+      ["The controversial Bush v. Gore, 531 U.S. 98 (2000), resolved the 2000 presidential election dispute with Justice Anthony Kennedy's opinion in Washington, D.C. The case had significant implications for election laws in Florida.",
+        {
+          "entities": [
+            [3, 16, "Case Citation"],
+            [46, 63, "Person"],
+            [85, 100, "Location"],
+            [103, 113, "Location"]
+          ]
+        }
+      ],
+      ["The decision in United States v. Nixon, 418 U.S. 683 (1974), involved President Richard Nixon and was delivered in Washington, D.C. This case, adjudicated by Chief Justice Warren Burger, addressed executive privilege during the Watergate scandal.",
+        {
+          "entities": [
+            [19, 40, "Case Citation"],
+            [51, 66, "Person"],
+            [76, 91, "Location"]
+          ]
+        }
+      ],
+      ["Plessy v. Ferguson, 163 U.S. 537 (1896), was decided by the U.S. Supreme Court in New Orleans, Louisiana, with Justice Henry Brown presiding. The case upheld racial segregation laws, affecting civil rights reforms throughout the South.",
+        {
+          "entities": [
+            [0, 18, "Case Citation"],
+            [40, 55, "Person"],
+            [61, 78, "Location"]
+          ]
+        }
+      ],
+      ["Citizens United v. Federal Election Commission, 558 U.S. 310 (2010), was decided by the Supreme Court in Washington, D.C., with Justice Anthony Kennedy delivering the opinion. The ruling influenced campaign finance laws across the United States.",
+        {
+          "entities": [
+            [0, 27, "Case Citation"],
+            [50, 67, "Person"],
+            [82, 97, "Location"]
+          ]
+        }
+      ],
+      ["Loving v. Virginia, 388 U.S. 1 (1967), was a landmark case decided in Washington, D.C., with Justice Earl Warren's opinion invalidating anti-miscegenation laws in Virginia. The case significantly impacted marriage laws in the South.",
+        {
+          "entities": [
+            [0, 16, "Case Citation"],
+            [45, 62, "Person"],
+            [78, 89, "Location"]
+          ]
+        }
+      ],
+      ["In Korematsu v. United States, 323 U.S. 214 (1944), Justice Hugo Black's opinion in Washington, D.C., upheld the internment of Japanese Americans during WWII, impacting civil liberties and affecting those interned in California.",
+        {
+          "entities": [
+            [3, 23, "Case Citation"],
+            [34, 49, "Person"],
+            [66, 81, "Location"]
+          ]
+        }
+      ],
+      ["Regents of the University of California v. Bakke, 438 U.S. 265 (1978), involved Justice Lewis Powell's opinion in Washington, D.C. This case, concerning affirmative action in admissions at the University of California, had repercussions across educational institutions.",
+        {
+          "entities": [
+            [0, 34, "Case Citation"],
+            [47, 62, "Person"],
+            [76, 91, "Location"]
+          ]
+        }
+      ],
+      ["Tinker v. Des Moines Independent Community School District, 393 U.S. 503 (1969), was decided by the U.S. Supreme Court in Washington, D.C. Justice Abe Fortas's opinion addressed students' free speech rights in Des Moines, Iowa.",
+        {
+          "entities": [
+            [0, 30, "Case Citation"],
+            [46, 63, "Person"],
+            [87, 99, "Location"]
+          ]
+        }
+      ],
+      ["Mapp v. Ohio, 367 U.S. 643 (1961), decided by Justice Tom C. Clark in Washington, D.C., established the exclusionary rule, impacting criminal procedure in Ohio and nationwide.",
+        {
+          "entities": [
+            [0, 14, "Case Citation"],
+            [35, 49, "Person"],
+            [72, 77, "Location"]
+          ]
+        }
+      ],
+      ["The Lawrence v. Texas, 539 U.S. 558 (2003), case, with Justice Anthony Kennedy's opinion, was delivered in Washington, D.C. This decision invalidated sodomy laws in Texas, affecting LGBTQ+ rights across the country.",
+        {
+          "entities": [
+            [4, 20, "Case Citation"],
+            [38, 53, "Person"],
+            [71, 76, "Location"]
+          ]
+        }
+      ],
+      ["Shelley v. Kraemer, 334 U.S. 1 (1948), was decided by Justice Stanley Reed in Washington, D.C., addressing racially restrictive covenants in St. Louis, Missouri. This case impacted housing discrimination laws nationwide.",
+        {
+          "entities": [
+            [0, 20, "Case Citation"],
+            [31, 46, "Person"],
+            [60, 73, "Location"]
+          ]
+        }
+      ],
+      ["Heller v. District of Columbia, 554 U.S. 570 (2008), with Justice Antonin Scalia's opinion, was decided in Washington, D.C. The ruling, which affirmed individual gun rights, had significant implications for gun laws in Washington, D.C.",
+        {
+          "entities": [
+            [0, 23, "Case Citation"],
+            [41, 58, "Person"],
+            [74, 89, "Location"]
+          ]
+        }
+      ],
+      ["Grutter v. Bollinger, 539 U.S. 306 (2003), was a case decided by Justice Sandra Day O'Connor in Washington, D.C. The ruling on affirmative action at the University of Michigan affected admissions policies nationwide.",
+        {
+          "entities": [
+            [0, 21, "Case Citation"],
+            [35, 54, "Person"],
+            [70, 89, "Location"]
+          ]
+        }
+      ],
+      ["In New York Times Co. v. Sullivan, 376 U.S. 254 (1964), Justice William Brennan's opinion, delivered in Washington, D.C., established standards for libel cases involving public figures, impacting media practices in Alabama and beyond.",
+        {
+          "entities": [
+            [3, 28, "Case Citation"],
+            [48, 64, "Person"],
+            [80, 87, "Location"]
+          ]
+        }
+      ]
+    ]
+}
+  

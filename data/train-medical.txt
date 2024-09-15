@@ -21,3 +21,53 @@ A 45-year-old patient arrived at the clinic, complaining of persistent fatigue a
 A young patient presented to the emergency room with episodes of vomiting and a persistent rash on his arms and legs. Despite taking over-the-counter medications, the symptoms worsened, and he developed swelling around his joints, making it difficult for him to walk. Upon examination, the doctors were concerned about a potential allergic reaction or an autoimmune condition, so they ordered a series of tests to narrow down the diagnosis.
 
 Meanwhile, another patient visited her general practitioner due to complaints of insomnia, which had been affecting her for several weeks. She also described a burning sensation in her chest, especially at night, making it hard to fall asleep. Her doctor suspected a combination of acid reflux and stress-related sleep disturbances, advising lifestyle changes along with medication to manage both the burning and sleeplessness.
+
+Angiography is a procedure used to visualize the inside of blood vessels. Doctors often recommend angiography when there are concerns about blood flow to the heart. The angiography results help in determining if there are any blockages or other abnormalities in the arteries.
+
+Arthroscopy is a minimally invasive procedure used to examine and treat joint problems. It is often performed on the knee or shoulder to repair ligament tears or remove damaged cartilage. Patients prefer arthroscopy as it typically involves less recovery time than open surgery.
+
+A biopsy is a critical procedure for diagnosing cancer, involving the removal of tissue for examination. It is performed on various organs, including the skin, breast, or lungs. Doctors use biopsy results to determine if a tumor is benign or malignant.
+
+Bronchoscopy is a procedure where a flexible tube with a camera is inserted into the lungs to diagnose respiratory issues. It helps detect infections, tumors, or blockages in the airways. Patients undergoing bronchoscopy are usually sedated to ensure comfort during the procedure.
+
+Colonoscopy is a procedure used to screen for colon cancer by examining the inner lining of the colon and rectum. It helps detect polyps, which may turn into cancer if not removed. Doctors recommend regular colonoscopy screenings for individuals over 50 or those with a family history of colon cancer.
+
+Cryotherapy involves using extreme cold to destroy abnormal or diseased tissue. It is commonly used to treat skin conditions like warts and precancerous growths. Athletes also use cryotherapy to relieve muscle pain and promote recovery after intense training.
+
+Dialysis is a life-saving procedure for patients with kidney failure. It filters waste, toxins, and excess fluids from the blood when the kidneys are no longer functioning properly. Patients may need to undergo dialysis several times a week, depending on their condition.
+
+Echocardiography is a diagnostic procedure that uses ultrasound waves to create images of the heart. It is often performed to evaluate heart function, check for abnormalities, or monitor heart disease. The results from echocardiography are essential for planning treatments like surgery or medication.
+
+Endoscopy is a procedure used to examine the digestive tract using a flexible tube with a camera. It helps detect conditions like ulcers, tumors, or inflammation. Patients usually undergo an endoscopy when experiencing symptoms like chronic stomach pain or bleeding.
+
+Gastroscopy is a type of endoscopy focused on the stomach and upper digestive tract. It is used to diagnose conditions like gastritis, peptic ulcers, or even early signs of cancer. The procedure is typically performed under sedation to make it more comfortable for the patient.
+
+Intubation is a medical procedure where a tube is inserted into the windpipe to assist with breathing. It is often used in emergency situations or during surgeries requiring general anesthesia. Intubation ensures that the airway remains open, allowing the patient to receive oxygen.
+
+Laparoscopy is a minimally invasive surgical procedure used to examine the organs in the abdomen. It is commonly performed to diagnose conditions like endometriosis or remove the appendix. Laparoscopy involves only small incisions, resulting in quicker recovery times compared to open surgery.
+
+Lithotripsy is a non-invasive procedure that uses shock waves to break up kidney stones. The fragments are small enough to pass through the urinary tract, relieving pain and discomfort. This procedure is often recommended when kidney stones are too large to pass naturally.
+
+Mammography is an imaging procedure used to screen for breast cancer. Women over the age of 40 are often advised to undergo regular mammography to detect any early signs of cancer. The procedure involves taking X-ray images of the breast tissue to look for abnormalities.
+
+Myelography is a diagnostic procedure where a contrast dye is injected into the spinal canal to capture detailed images of the spinal cord and nerves. It helps identify issues like herniated discs, spinal stenosis, or tumors. Myelography is often followed by a CT scan to further evaluate the findings.
+
+Phlebotomy is the process of drawing blood from a vein, typically for diagnostic testing or blood donations. It is one of the most routine medical procedures, performed in hospitals, labs, and clinics. Phlebotomy requires proper technique to minimize discomfort and ensure accurate results.
+
+Radiography is the use of X-rays to create images of internal structures in the body. It is commonly used to detect fractures, infections, or abnormalities in the bones and organs. Radiography is a standard procedure in emergency rooms to quickly diagnose trauma injuries.
+
+Sigmoidoscopy is a procedure used to examine the lower part of the colon. It helps detect polyps, tumors, or signs of inflammatory bowel disease. Doctors may recommend sigmoidoscopy as part of regular screening for colorectal cancer.
+
+Spirometry is a lung function test that measures how much air a person can inhale and exhale. It is often used to diagnose respiratory conditions like asthma or chronic obstructive pulmonary disease (COPD). Spirometry is a simple procedure performed in a doctor's office or clinic.
+
+Thermography is a procedure that uses infrared cameras to detect heat patterns and blood flow in body tissues. It is often used in breast cancer screening and to assess pain or inflammation. Thermography can help identify abnormalities without exposing the patient to radiation.
+
+Tracheostomy is a surgical procedure where an opening is created in the neck to allow a direct airway into the windpipe. It is performed when a patient is unable to breathe normally due to an obstruction or injury. Tracheostomy is often used as a long-term solution for breathing difficulties.
+
+Ultrasound is a non-invasive imaging procedure that uses sound waves to capture images of internal organs and tissues. It is widely used in pregnancy to monitor the development of the fetus. Ultrasound is also employed to diagnose conditions affecting the heart, liver, or kidneys.
+
+Venography is a procedure that uses contrast dye and X-rays to visualize veins in the body, particularly in the legs. It helps diagnose conditions like deep vein thrombosis (DVT) or varicose veins. The results of venography can guide doctors in planning treatments like surgery or medication.
+
+Vasectomy is a minor surgical procedure used as a permanent method of male contraception. It involves cutting or blocking the vas deferens, preventing sperm from reaching the semen. Vasectomy is a quick procedure, and most men can return to normal activities within a few days.
+
+Xerography is an imaging procedure that uses dry, electrostatic printing to create copies of medical images. It is not commonly used today but was historically employed for breast cancer screenings. While newer techniques have replaced xerography, it played a significant role in early diagnostic imaging.

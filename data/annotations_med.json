@@ -1,1 +1,335 @@
-{"classes":["PROCEDURE / TESTS","DRUG","CONDITION","SYMPTOM"],"annotations":[["The doctor performed auscultation to check the patient's lung sounds, listening carefully for any abnormal breathing patterns. After noticing some congestion, she proceeded with an otoscopy to examine the patient's ear canal for any signs of infection or blockage. Following these initial checks, an electrocardiogram (ECG) was ordered to monitor the patient's heart rhythm due to complaints of chest discomfort. When a lump was detected during a routine check-up, the physician recommended a biopsy to determine whether the tissue was cancerous. The patient was also referred for a CT scan to get a detailed image of the internal organs, which revealed an abnormal mass. Concerned by the findings, the doctor scheduled an MRI to obtain more precise images of the area in question. Given the patient's low hemoglobin levels, a transfusion was administered to restore the proper blood volume. Later, the patient underwent a colonoscopy to screen for colorectal cancer, especially since they had a family history of the disease. A bronchoscopy was also performed when the patient developed a persistent cough, allowing the physician to examine the lungs and airways for blockages or growths. For gastrointestinal symptoms, an endoscopy was used to explore the esophagus and stomach, where the doctor found and treated a small ulcer.\r",{"entities":[[21,33,"PROCEDURE / TESTS"],[181,189,"PROCEDURE / TESTS"],[300,317,"PROCEDURE / TESTS"],[493,499,"PROCEDURE / TESTS"],[583,585,"PROCEDURE / TESTS"],[723,726,"PROCEDURE / TESTS"],[827,838,"PROCEDURE / TESTS"],[1029,1041,"PROCEDURE / TESTS"]]}],["\r",{"entities":[]}],["In an emergency situation, the patient required a craniotomy to relieve the pressure caused by swelling in the brain after a head injury. To monitor kidney function, catheterization was used to measure urine output and assess bladder function. During childbirth, complications arose, leading to the decision to perform a Cesarean section to safely deliver the baby. Prior to surgery, the patient's lung capacity was evaluated using spirometry, which revealed reduced lung function due to a history of smoking. Due to respiratory failure, the medical team performed intubation to secure the airway and ensure proper ventilation during the procedure.\r",{"entities":[[50,60,"PROCEDURE / TESTS"],[166,181,"PROCEDURE / TESTS"]]}],["\r",{"entities":[]}],["A follow-up electrocardiogram was scheduled to evaluate the patient's heart after surgery. During a second biopsy, results confirmed the benign nature of the previously concerning tissue, alleviating the patient's worries. After the CT scan of the abdomen, a liver lesion was identified, prompting further investigation with another MRI to understand its exact characteristics. After significant blood loss during a surgery, another transfusion was given to stabilize the patient. Following symptoms of rectal bleeding, a second colonoscopy was performed to check for any recurrence of polyps. The patient's lung issues were examined again with a bronchoscopy, and inflammation was detected in the lower airways. For unexplained stomach pain, a second endoscopy was conducted, where gastritis was diagnosed. Another craniotomy became necessary due to the development of intracranial bleeding post-accident.\r",{"entities":[[12,29,"PROCEDURE / TESTS"],[233,235,"PROCEDURE / TESTS"],[333,336,"PROCEDURE / TESTS"],[433,444,"PROCEDURE / TESTS"]]}],["\r",{"entities":[]}],["To clear a urinary blockage caused by prostate enlargement, catheterization was used again, providing immediate relief. A third patient presented with complications during labor and underwent a Cesarean to safely deliver twins. Spirometry was used repeatedly for a patient with chronic asthma to evaluate their pulmonary function over time. After an asthma attack worsened, intubation was necessary to keep the patient's airway open and prevent respiratory failure. The patient's post-operative heart health was monitored with yet another electrocardiogram to ensure stable heart rhythms. In another case, a routine biopsy detected early-stage melanoma, leading to early and successful intervention. A CT scan of the chest detected a lung nodule, prompting a follow-up MRI to confirm the diagnosis. When a patient arrived in the ER with severe anemia, an immediate transfusion was performed to save their life. Lastly, a routine colonoscopy uncovered a small polyp, which was removed and sent for further testing.\r",{"entities":[[865,876,"PROCEDURE / TESTS"]]}],["\r",{"entities":[]}],["The patient, a 45-year-old male, presented with chest pain and shortness of breath, which had persisted for two days. Upon examination, his medical history revealed a prior diagnosis of hypertension and type 2 diabetes mellitus, for which he had been taking metformin and lisinopril regularly. Further investigation indicated elevated blood pressure and abnormal heart function, prompting the physician to order an echocardiogram and a series of blood tests to evaluate cardiac markers. The echocardiogram revealed an enlarged left ventricle, raising concerns about possible cardiomyopathy. The patient was also experiencing intermittent headaches and dizziness, which were thought to be related to his underlying hypertension.\r",{"entities":[[48,58,"SYMPTOM"],[63,82,"SYMPTOM"],[186,198,"CONDITION"],[258,267,"DRUG"],[272,282,"DRUG"],[415,429,"PROCEDURE / TESTS"],[446,457,"PROCEDURE / TESTS"],[491,505,"PROCEDURE / TESTS"],[575,590,"CONDITION"],[714,726,"CONDITION"]]}],["\r",{"entities":[]}],["During the course of the hospital stay, the patient underwent a coronary angioplasty after a significant blockage was detected in one of the coronary arteries. Post-procedure, he was prescribed aspirin and a statin to manage his cardiovascular risk factors. Additionally, he was counseled on lifestyle changes, including diet modifications and exercise, to manage both his diabetes and heart condition. The team monitored his blood glucose levels closely and adjusted his insulin dosage to maintain optimal control. Follow-up appointments were scheduled to reassess his condition and ensure that no further complications, such as myocardial infarction or stroke, occurred.\r",{"entities":[[64,84,"PROCEDURE / TESTS"],[194,201,"DRUG"],[373,381,"CONDITION"],[630,651,"CONDITION"]]}],["\r",{"entities":[]}],["A 62-year-old female arrived at the emergency department with complaints of severe abdominal pain and nausea. She reported a history of gallstones and had previously undergone laparoscopic cholecystectomy. Her medical records also indicated a long-standing diagnosis of chronic obstructive pulmonary disease (COPD), for which she had been prescribed tiotropium and albuterol inhalers. Physical examination revealed tenderness in the right upper quadrant of the abdomen, and a CT scan was ordered to rule out any complications, such as pancreatitis or bile duct obstruction. The scan identified mild hepatic steatosis and an inflamed pancreas, suggesting early-stage acute pancreatitis.\r",{"entities":[[93,97,"SYMPTOM"],[102,109,"SYMPTOM"],[136,146,"CONDITION"],[189,205,"PROCEDURE / TESTS"],[350,360,"DRUG"],[365,374,"DRUG"],[415,425,"SYMPTOM"],[476,483,"PROCEDURE / TESTS"],[535,547,"CONDITION"],[672,684,"CONDITION"]]}],["\r",{"entities":[]}],["Her laboratory tests showed elevated levels of amylase and lipase, confirming the diagnosis. The patient was admitted for supportive care, including intravenous fluids and analgesics for pain management. She was monitored closely for signs of respiratory distress, given her history of COPD. The pulmonologist recommended increasing the frequency of her nebulizer treatments, and she was started on a short course of prednisone to manage her inflammation.\r",{"entities":[]}],["\r",{"entities":[]}],["During her hospitalization, the patient experienced episodes of tachycardia and palpitations, which were evaluated with an electrocardiogram (ECG). Although no acute myocardial infarction was detected, her cardiologist suggested ongoing surveillance for potential arrhythmias. She was eventually stabilized and discharged with instructions to avoid alcohol and high-fat meals, both known triggers for pancreatitis, and was prescribed omeprazole for gastrointestinal protection. A follow-up with a gastroenterologist was scheduled to assess her recovery and to explore potential long-term management options.",{"entities":[[123,140,"PROCEDURE / TESTS"],[264,276,"CONDITION"],[401,413,"CONDITION"],[434,444,"DRUG"]]}]]}
+{
+    "classes": [
+        "PROCEDURE / TESTS",
+        "DRUG",
+        "CONDITION",
+        "SYMPTOM"
+    ],
+    "annotations": [
+        [
+            "The doctor performed auscultation to check the patient's lung sounds, listening carefully for any abnormal breathing patterns. After noticing some congestion, she proceeded with an otoscopy to examine the patient's ear canal for any signs of infection or blockage. Following these initial checks, an electrocardiogram (ECG) was ordered to monitor the patient's heart rhythm due to complaints of chest discomfort. When a lump was detected during a routine check-up, the physician recommended a biopsy to determine whether the tissue was cancerous. The patient was also referred for a CT scan to get a detailed image of the internal organs, which revealed an abnormal mass. Concerned by the findings, the doctor scheduled an MRI to obtain more precise images of the area in question. Given the patient's low hemoglobin levels, a transfusion was administered to restore the proper blood volume. Later, the patient underwent a colonoscopy to screen for colorectal cancer, especially since they had a family history of the disease. A bronchoscopy was also performed when the patient developed a persistent cough, allowing the physician to examine the lungs and airways for blockages or growths. For gastrointestinal symptoms, an endoscopy was used to explore the esophagus and stomach, where the doctor found and treated a small ulcer.\r",
+            {
+                "entities": [
+                    [
+                        21,
+                        33,
+                        "PROCEDURE / TESTS"
+                    ],
+                    [
+                        181,
+                        189,
+                        "PROCEDURE / TESTS"
+                    ],
+                    [
+                        300,
+                        317,
+                        "PROCEDURE / TESTS"
+                    ],
+                    [
+                        493,
+                        499,
+                        "PROCEDURE / TESTS"
+                    ],
+                    [
+                        583,
+                        585,
+                        "PROCEDURE / TESTS"
+                    ],
+                    [
+                        723,
+                        726,
+                        "PROCEDURE / TESTS"
+                    ],
+                    [
+                        827,
+                        838,
+                        "PROCEDURE / TESTS"
+                    ],
+                    [
+                        1029,
+                        1041,
+                        "PROCEDURE / TESTS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "\r",
+            {
+                "entities": []
+            }
+        ],
+        [
+            "In an emergency situation, the patient required a craniotomy to relieve the pressure caused by swelling in the brain after a head injury. To monitor kidney function, catheterization was used to measure urine output and assess bladder function. During childbirth, complications arose, leading to the decision to perform a Cesarean section to safely deliver the baby. Prior to surgery, the patient's lung capacity was evaluated using spirometry, which revealed reduced lung function due to a history of smoking. Due to respiratory failure, the medical team performed intubation to secure the airway and ensure proper ventilation during the procedure.\r",
+            {
+                "entities": [
+                    [
+                        50,
+                        60,
+                        "PROCEDURE / TESTS"
+                    ],
+                    [
+                        166,
+                        181,
+                        "PROCEDURE / TESTS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "\r",
+            {
+                "entities": []
+            }
+        ],
+        [
+            "A follow-up electrocardiogram was scheduled to evaluate the patient's heart after surgery. During a second biopsy, results confirmed the benign nature of the previously concerning tissue, alleviating the patient's worries. After the CT scan of the abdomen, a liver lesion was identified, prompting further investigation with another MRI to understand its exact characteristics. After significant blood loss during a surgery, another transfusion was given to stabilize the patient. Following symptoms of rectal bleeding, a second colonoscopy was performed to check for any recurrence of polyps. The patient's lung issues were examined again with a bronchoscopy, and inflammation was detected in the lower airways. For unexplained stomach pain, a second endoscopy was conducted, where gastritis was diagnosed. Another craniotomy became necessary due to the development of intracranial bleeding post-accident.\r",
+            {
+                "entities": [
+                    [
+                        12,
+                        29,
+                        "PROCEDURE / TESTS"
+                    ],
+                    [
+                        233,
+                        235,
+                        "PROCEDURE / TESTS"
+                    ],
+                    [
+                        333,
+                        336,
+                        "PROCEDURE / TESTS"
+                    ],
+                    [
+                        433,
+                        444,
+                        "PROCEDURE / TESTS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "\r",
+            {
+                "entities": []
+            }
+        ],
+        [
+            "To clear a urinary blockage caused by prostate enlargement, catheterization was used again, providing immediate relief. A third patient presented with complications during labor and underwent a Cesarean to safely deliver twins. Spirometry was used repeatedly for a patient with chronic asthma to evaluate their pulmonary function over time. After an asthma attack worsened, intubation was necessary to keep the patient's airway open and prevent respiratory failure. The patient's post-operative heart health was monitored with yet another electrocardiogram to ensure stable heart rhythms. In another case, a routine biopsy detected early-stage melanoma, leading to early and successful intervention. A CT scan of the chest detected a lung nodule, prompting a follow-up MRI to confirm the diagnosis. When a patient arrived in the ER with severe anemia, an immediate transfusion was performed to save their life. Lastly, a routine colonoscopy uncovered a small polyp, which was removed and sent for further testing.\r",
+            {
+                "entities": [
+                    [
+                        865,
+                        876,
+                        "PROCEDURE / TESTS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "\r",
+            {
+                "entities": []
+            }
+        ],
+        [
+            "The patient, a 45-year-old male, presented with chest pain and shortness of breath, which had persisted for two days. Upon examination, his medical history revealed a prior diagnosis of hypertension and type 2 diabetes mellitus, for which he had been taking metformin and lisinopril regularly. Further investigation indicated elevated blood pressure and abnormal heart function, prompting the physician to order an echocardiogram and a series of blood tests to evaluate cardiac markers. The echocardiogram revealed an enlarged left ventricle, raising concerns about possible cardiomyopathy. The patient was also experiencing intermittent headaches and dizziness, which were thought to be related to his underlying hypertension.\r",
+            {
+                "entities": [
+                    [
+                        48,
+                        58,
+                        "SYMPTOM"
+                    ],
+                    [
+                        63,
+                        82,
+                        "SYMPTOM"
+                    ],
+                    [
+                        186,
+                        198,
+                        "CONDITION"
+                    ],
+                    [
+                        258,
+                        267,
+                        "DRUG"
+                    ],
+                    [
+                        272,
+                        282,
+                        "DRUG"
+                    ],
+                    [
+                        415,
+                        429,
+                        "PROCEDURE / TESTS"
+                    ],
+                    [
+                        446,
+                        457,
+                        "PROCEDURE / TESTS"
+                    ],
+                    [
+                        491,
+                        505,
+                        "PROCEDURE / TESTS"
+                    ],
+                    [
+                        575,
+                        590,
+                        "CONDITION"
+                    ],
+                    [
+                        714,
+                        726,
+                        "CONDITION"
+                    ]
+                ]
+            }
+        ],
+        [
+            "\r",
+            {
+                "entities": []
+            }
+        ],
+        [
+            "During the course of the hospital stay, the patient underwent a coronary angioplasty after a significant blockage was detected in one of the coronary arteries. Post-procedure, he was prescribed aspirin and a statin to manage his cardiovascular risk factors. Additionally, he was counseled on lifestyle changes, including diet modifications and exercise, to manage both his diabetes and heart condition. The team monitored his blood glucose levels closely and adjusted his insulin dosage to maintain optimal control. Follow-up appointments were scheduled to reassess his condition and ensure that no further complications, such as myocardial infarction or stroke, occurred.\r",
+            {
+                "entities": [
+                    [
+                        64,
+                        84,
+                        "PROCEDURE / TESTS"
+                    ],
+                    [
+                        194,
+                        201,
+                        "DRUG"
+                    ],
+                    [
+                        373,
+                        381,
+                        "CONDITION"
+                    ],
+                    [
+                        630,
+                        651,
+                        "CONDITION"
+                    ]
+                ]
+            }
+        ],
+        [
+            "\r",
+            {
+                "entities": []
+            }
+        ],
+        [
+            "A 62-year-old female arrived at the emergency department with complaints of severe abdominal pain and nausea. She reported a history of gallstones and had previously undergone laparoscopic cholecystectomy. Her medical records also indicated a long-standing diagnosis of chronic obstructive pulmonary disease (COPD), for which she had been prescribed tiotropium and albuterol inhalers. Physical examination revealed tenderness in the right upper quadrant of the abdomen, and a CT scan was ordered to rule out any complications, such as pancreatitis or bile duct obstruction. The scan identified mild hepatic steatosis and an inflamed pancreas, suggesting early-stage acute pancreatitis.\r",
+            {
+                "entities": [
+                    [
+                        93,
+                        97,
+                        "SYMPTOM"
+                    ],
+                    [
+                        102,
+                        109,
+                        "SYMPTOM"
+                    ],
+                    [
+                        136,
+                        146,
+                        "CONDITION"
+                    ],
+                    [
+                        189,
+                        205,
+                        "PROCEDURE / TESTS"
+                    ],
+                    [
+                        350,
+                        360,
+                        "DRUG"
+                    ],
+                    [
+                        365,
+                        374,
+                        "DRUG"
+                    ],
+                    [
+                        415,
+                        425,
+                        "SYMPTOM"
+                    ],
+                    [
+                        476,
+                        483,
+                        "PROCEDURE / TESTS"
+                    ],
+                    [
+                        535,
+                        547,
+                        "CONDITION"
+                    ],
+                    [
+                        672,
+                        684,
+                        "CONDITION"
+                    ]
+                ]
+            }
+        ],
+        [
+            "\r",
+            {
+                "entities": []
+            }
+        ],
+        [
+            "Her laboratory tests showed elevated levels of amylase and lipase, confirming the diagnosis. The patient was admitted for supportive care, including intravenous fluids and analgesics for pain management. She was monitored closely for signs of respiratory distress, given her history of COPD. The pulmonologist recommended increasing the frequency of her nebulizer treatments, and she was started on a short course of prednisone to manage her inflammation.\r",
+            {
+                "entities": []
+            }
+        ],
+        [
+            "\r",
+            {
+                "entities": []
+            }
+        ],
+        [
+            "During her hospitalization, the patient experienced episodes of tachycardia and palpitations, which were evaluated with an electrocardiogram (ECG). Although no acute myocardial infarction was detected, her cardiologist suggested ongoing surveillance for potential arrhythmias. She was eventually stabilized and discharged with instructions to avoid alcohol and high-fat meals, both known triggers for pancreatitis, and was prescribed omeprazole for gastrointestinal protection. A follow-up with a gastroenterologist was scheduled to assess her recovery and to explore potential long-term management options.",
+            {
+                "entities": [
+                    [
+                        123,
+                        140,
+                        "PROCEDURE / TESTS"
+                    ],
+                    [
+                        264,
+                        276,
+                        "CONDITION"
+                    ],
+                    [
+                        401,
+                        413,
+                        "CONDITION"
+                    ],
+                    [
+                        434,
+                        444,
+                        "DRUG"
+                    ]
+                ]
+            }
+        ]
+    ]
+}

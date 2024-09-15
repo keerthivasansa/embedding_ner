@@ -1,1 +1,89 @@
-{"classes":["PROCEDURE / TESTS"],"annotations":[["The stethoscope is essential for auscultating heart and lung sounds. During a routine examination, the doctor might use an otoscope to inspect the patient's ears. A blood pressure cuff, also known as a sphygmomanometer, measures systolic and diastolic pressure. To check blood oxygen levels, a pulse oximeter is often used. For more detailed imaging, physicians rely on X-rays, CT scans, or MRIs. An electrocardiogram (ECG) is performed to assess the electrical activity of the heart. Blood tests, including a complete blood count (CBC), are vital for diagnosing various conditions. A biopsy may be performed to diagnose cancerous tissue. Ultrasound imaging is commonly used to examine the abdomen and fetus during pregnancy. The physician may prescribe antibiotics to treat bacterial infections. When viral infections occur, antivirals might be considered. A glucose monitor is necessary for patients with diabetes to manage blood sugar levels. During surgery, a scalpel is used for incisions, while retractors hold back tissue. Anesthesia, either local or general, is administered to manage pain during procedures. A defibrillator can be used to restore normal heart rhythms in cases of cardiac arrest. Nurses frequently administer IV fluids to ensure hydration and deliver medications. A nasogastric tube might be inserted for feeding if a patient cannot swallow. In the case of orthopedic injuries, X-rays help determine fractures, while a cast or splint is used for stabilization. Surgeons may employ laparoscopic tools for minimally invasive procedures. In the ICU, ventilators assist patients who are unable to breathe independently. Sterile gloves and masks are worn to prevent infection during surgery. A urine test may reveal information about kidney function or infections. An EEG measures brain wave activity, helpful in diagnosing epilepsy. A blood transfusion may be necessary in cases of severe anemia or blood loss. Patients with chronic conditions like hypertension need to take daily medications. In cases of trauma, a neck brace is used to stabilize the cervical spine. Physical therapy is essential for rehabilitation after orthopedic surgery. When a patient is dehydrated, oral rehydration solutions or IV fluids are administered. Colonoscopies are performed to screen for colon cancer. A pap smear is a routine test for detecting cervical cancer. Anti-inflammatory medications are prescribed for pain and swelling. A nebulizer is used to deliver medication to the lungs in cases of asthma or COPD. Surgeons may perform a craniotomy to access the brain. A blood culture is done to detect bacterial infections in the bloodstream. The glucometer is indispensable for diabetics to monitor their glucose levels. Radiologists interpret imaging studies like MRIs and CT scans. Chemotherapy drugs are administered intravenously to treat cancer. Insulin injections are necessary for Type 1 diabetes management. Dialysis machines are vital for patients with kidney failure. A pacemaker may be implanted to regulate abnormal heart rhythms. Dermatologists use cryotherapy to freeze off warts and other skin lesions. Anti-seizure medications are prescribed for epilepsy. Antihistamines relieve allergic reactions, such as those triggered by pollen. An ophthalmologist uses a slit lamp to examine the eyes for conditions like glaucoma. Hemodialysis removes waste from the blood in patients with renal failure. The use of antiseptics prevents infection in wounds and surgical sites. Dental X-rays help diagnose issues with teeth and gums. Patients in critical condition may require intubation and mechanical ventilation. Injections of corticosteroids are often used to treat inflammation in joints. Laser surgery is sometimes employed to correct vision in procedures like LASIK. Pathologists examine tissue samples under a microscope to diagnose diseases. A bronchoscopy allows doctors to visualize the inside of the airways. Continuous positive airway pressure (CPAP) machines are used to treat sleep apnea. Cardiac catheterization is performed to diagnose and treat heart conditions. Anticoagulants, or blood thinners, are prescribed to prevent blood clots. A cesarean section is performed to deliver a baby when natural childbirth is not possible. Immunizations help prevent diseases like influenza and hepatitis. Ophthalmologists often treat cataracts with surgical procedures. Gastroenterologists use endoscopy to examine the digestive tract. Psychiatrists prescribe antidepressants to manage mood disorders. EpiPens are used to treat severe allergic reactions, known as anaphylaxis. Orthopedic surgeons may use screws and plates to repair broken bones. A laryngoscope is used to examine the throat and vocal cords. Colonoscopy is the gold standard for colorectal cancer screening. Spirometry tests help assess lung function in conditions like asthma and COPD. Probiotics are sometimes prescribed to restore gut flora after antibiotic use. Radiation therapy is a common treatment for various forms of cancer. Antiretrovirals are essential in the management of HIV/AIDS. Orthodontic braces help straighten misaligned teeth. Compression stockings are often recommended to prevent blood clots in the legs. Endocrinologists treat hormonal imbalances, such as those seen in thyroid disorders. Antipyretics, like acetaminophen, help reduce fever. Surgeons use sutures or staples to close surgical wounds. A colposcopy is used to examine the cervix in more detail after an abnormal pap smear. Diuretics are prescribed to reduce fluid retention in patients with heart failure. Pediatricians monitor developmental milestones in infants and young children. Antacids are often recommended for acid reflux or heartburn. A treadmill stress test evaluates heart function during physical exertion. Pain management specialists may use epidural injections for chronic back pain. Vaccines help to build immunity against infectious diseases. Ear, nose, and throat (ENT) specialists treat conditions like tonsillitis and sinusitis. Antifungal medications treat conditions like athlete's foot or ringworm.",{"entities":[[33,45,"PROCEDURE / TESTS"],[123,131,"PROCEDURE / TESTS"],[370,376,"PROCEDURE / TESTS"],[378,386,"PROCEDURE / TESTS"],[391,396,"PROCEDURE / TESTS"],[400,417,"PROCEDURE / TESTS"],[419,422,"PROCEDURE / TESTS"],[585,591,"PROCEDURE / TESTS"],[639,657,"PROCEDURE / TESTS"],[1856,1873,"PROCEDURE / TESTS"],[2252,2265,"PROCEDURE / TESTS"],[2543,2553,"PROCEDURE / TESTS"],[3865,3877,"PROCEDURE / TESTS"],[4016,4039,"PROCEDURE / TESTS"],[4413,4422,"PROCEDURE / TESTS"]]}]]}
+{
+    "classes": [
+        "PROCEDURE / TESTS"
+    ],
+    "annotations": [
+        [
+            "The stethoscope is essential for auscultating heart and lung sounds. During a routine examination, the doctor might use an otoscope to inspect the patient's ears. A blood pressure cuff, also known as a sphygmomanometer, measures systolic and diastolic pressure. To check blood oxygen levels, a pulse oximeter is often used. For more detailed imaging, physicians rely on X-rays, CT scans, or MRIs. An electrocardiogram (ECG) is performed to assess the electrical activity of the heart. Blood tests, including a complete blood count (CBC), are vital for diagnosing various conditions. A biopsy may be performed to diagnose cancerous tissue. Ultrasound imaging is commonly used to examine the abdomen and fetus during pregnancy. The physician may prescribe antibiotics to treat bacterial infections. When viral infections occur, antivirals might be considered. A glucose monitor is necessary for patients with diabetes to manage blood sugar levels. During surgery, a scalpel is used for incisions, while retractors hold back tissue. Anesthesia, either local or general, is administered to manage pain during procedures. A defibrillator can be used to restore normal heart rhythms in cases of cardiac arrest. Nurses frequently administer IV fluids to ensure hydration and deliver medications. A nasogastric tube might be inserted for feeding if a patient cannot swallow. In the case of orthopedic injuries, X-rays help determine fractures, while a cast or splint is used for stabilization. Surgeons may employ laparoscopic tools for minimally invasive procedures. In the ICU, ventilators assist patients who are unable to breathe independently. Sterile gloves and masks are worn to prevent infection during surgery. A urine test may reveal information about kidney function or infections. An EEG measures brain wave activity, helpful in diagnosing epilepsy. A blood transfusion may be necessary in cases of severe anemia or blood loss. Patients with chronic conditions like hypertension need to take daily medications. In cases of trauma, a neck brace is used to stabilize the cervical spine. Physical therapy is essential for rehabilitation after orthopedic surgery. When a patient is dehydrated, oral rehydration solutions or IV fluids are administered. Colonoscopies are performed to screen for colon cancer. A pap smear is a routine test for detecting cervical cancer. Anti-inflammatory medications are prescribed for pain and swelling. A nebulizer is used to deliver medication to the lungs in cases of asthma or COPD. Surgeons may perform a craniotomy to access the brain. A blood culture is done to detect bacterial infections in the bloodstream. The glucometer is indispensable for diabetics to monitor their glucose levels. Radiologists interpret imaging studies like MRIs and CT scans. Chemotherapy drugs are administered intravenously to treat cancer. Insulin injections are necessary for Type 1 diabetes management. Dialysis machines are vital for patients with kidney failure. A pacemaker may be implanted to regulate abnormal heart rhythms. Dermatologists use cryotherapy to freeze off warts and other skin lesions. Anti-seizure medications are prescribed for epilepsy. Antihistamines relieve allergic reactions, such as those triggered by pollen. An ophthalmologist uses a slit lamp to examine the eyes for conditions like glaucoma. Hemodialysis removes waste from the blood in patients with renal failure. The use of antiseptics prevents infection in wounds and surgical sites. Dental X-rays help diagnose issues with teeth and gums. Patients in critical condition may require intubation and mechanical ventilation. Injections of corticosteroids are often used to treat inflammation in joints. Laser surgery is sometimes employed to correct vision in procedures like LASIK. Pathologists examine tissue samples under a microscope to diagnose diseases. A bronchoscopy allows doctors to visualize the inside of the airways. Continuous positive airway pressure (CPAP) machines are used to treat sleep apnea. Cardiac catheterization is performed to diagnose and treat heart conditions. Anticoagulants, or blood thinners, are prescribed to prevent blood clots. A cesarean section is performed to deliver a baby when natural childbirth is not possible. Immunizations help prevent diseases like influenza and hepatitis. Ophthalmologists often treat cataracts with surgical procedures. Gastroenterologists use endoscopy to examine the digestive tract. Psychiatrists prescribe antidepressants to manage mood disorders. EpiPens are used to treat severe allergic reactions, known as anaphylaxis. Orthopedic surgeons may use screws and plates to repair broken bones. A laryngoscope is used to examine the throat and vocal cords. Colonoscopy is the gold standard for colorectal cancer screening. Spirometry tests help assess lung function in conditions like asthma and COPD. Probiotics are sometimes prescribed to restore gut flora after antibiotic use. Radiation therapy is a common treatment for various forms of cancer. Antiretrovirals are essential in the management of HIV/AIDS. Orthodontic braces help straighten misaligned teeth. Compression stockings are often recommended to prevent blood clots in the legs. Endocrinologists treat hormonal imbalances, such as those seen in thyroid disorders. Antipyretics, like acetaminophen, help reduce fever. Surgeons use sutures or staples to close surgical wounds. A colposcopy is used to examine the cervix in more detail after an abnormal pap smear. Diuretics are prescribed to reduce fluid retention in patients with heart failure. Pediatricians monitor developmental milestones in infants and young children. Antacids are often recommended for acid reflux or heartburn. A treadmill stress test evaluates heart function during physical exertion. Pain management specialists may use epidural injections for chronic back pain. Vaccines help to build immunity against infectious diseases. Ear, nose, and throat (ENT) specialists treat conditions like tonsillitis and sinusitis. Antifungal medications treat conditions like athlete's foot or ringworm.",
+            {
+                "entities": [
+                    [
+                        33,
+                        45,
+                        "PROCEDURE / TESTS"
+                    ],
+                    [
+                        123,
+                        131,
+                        "PROCEDURE / TESTS"
+                    ],
+                    [
+                        370,
+                        376,
+                        "PROCEDURE / TESTS"
+                    ],
+                    [
+                        378,
+                        386,
+                        "PROCEDURE / TESTS"
+                    ],
+                    [
+                        391,
+                        396,
+                        "PROCEDURE / TESTS"
+                    ],
+                    [
+                        400,
+                        417,
+                        "PROCEDURE / TESTS"
+                    ],
+                    [
+                        419,
+                        422,
+                        "PROCEDURE / TESTS"
+                    ],
+                    [
+                        585,
+                        591,
+                        "PROCEDURE / TESTS"
+                    ],
+                    [
+                        639,
+                        657,
+                        "PROCEDURE / TESTS"
+                    ],
+                    [
+                        1856,
+                        1873,
+                        "PROCEDURE / TESTS"
+                    ],
+                    [
+                        2252,
+                        2265,
+                        "PROCEDURE / TESTS"
+                    ],
+                    [
+                        2543,
+                        2553,
+                        "PROCEDURE / TESTS"
+                    ],
+                    [
+                        3865,
+                        3877,
+                        "PROCEDURE / TESTS"
+                    ],
+                    [
+                        4016,
+                        4039,
+                        "PROCEDURE / TESTS"
+                    ],
+                    [
+                        4413,
+                        4422,
+                        "PROCEDURE / TESTS"
+                    ]
+                ]
+            }
+        ]
+    ]
+}

@@ -53,21 +53,31 @@
     {
         "name": "Procedure",
         "labels": [
-            "Auscultation",
-            "Otoscopy",
-            "Electrocardiogram",
+            "Angiography",
+            "Arthroscopy",
             "Biopsy",
-            "CT",
-            "MRI",
-            "transfusion",
-            "Colonoscopy",
             "Bronchoscopy",
+            "Colonoscopy",
+            "Cryotherapy",
+            "Dialysis",
+            "Echocardiography",
             "Endoscopy",
-            "Craniotomy",
-            "catheterization",
-            "Cesarean",
+            "Gastroscopy",
+            "Intubation",
+            "Laparoscopy",
+            "Lithotripsy",
+            "Mammography",
+            "Myelography",
+            "Phlebotomy",
+            "Radiography",
+            "Sigmoidoscopy",
             "Spirometry",
-            "Intubation"
+            "Thermography",
+            "Tracheostomy",
+            "Ultrasound",
+            "Venography",
+            "Vasectomy",
+            "Xerography"
         ]
     }
 ]

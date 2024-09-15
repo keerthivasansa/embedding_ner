@@ -1,0 +1,70 @@
+[
+    {
+        "name": "Risk Factors",
+        "min_thresh": 0.25,
+        "max_thresh": 0.4,
+        "labels": [
+            "Hypertension",
+            "Cholesterol",
+            "Diabetes",
+            "Obesity",
+            "Smoking",
+            "Inactivity",
+            "Family",
+            "Alcohol",
+            "Sodium",
+            "Stress"
+        ]
+    },
+    {
+        "name": "Anatomy",
+        "min_thresh": 0.2,
+        "max_thresh": 0.8,
+        "labels": [
+            "Aorta",
+            "Ventricle",
+            "Atrium",
+            "Mitral",
+            "Tricuspid",
+            "Arteries",
+            "Septum",
+            "Pulmonary",
+            "Aortic",
+            "LeftAtrium"
+        ]
+    },
+    {
+        "name": "Procedure",
+        "min_thresh": 0.05,
+        "max_thresh": 0.3, 
+        "labels": [
+            "Angioplasty",
+            "Bypass",
+            "Echocardiogram",
+            "ECG",
+            "Stenting",
+            "Pacemaker",
+            "Defibrillator",
+            "Catheterization",
+            "Replacement",
+            "StressTest"
+        ]
+    },
+    {
+        "name": "Condition",
+        "min_thresh": 0.05,
+        "max_thresh": 0.5,
+        "labels": [
+            "Hypertension",
+            "CAD",
+            "HeartFailure",
+            "Myocardial",
+            "Arrhythmias",
+            "Angina",
+            "Atherosclerosis",
+            "Cardiomyopathy",
+            "Valvular",
+            "Pericarditis"
+        ]
+    }
+]

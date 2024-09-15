@@ -1,0 +1,56 @@
+[
+    {
+        "name": "ANATOMICAL STRUCTURE",
+        "min_thresh": 0.35,
+        "max_thresh": 0.65,
+        "labels": [
+            "lens",
+            "eye",
+            "retina",
+            "cornea",
+            "macula"
+        ]
+    },
+    {
+        "name": "PROCEDURE",
+        "min_thresh": 0.15,
+        "max_thresh": 0.65,
+        "labels": [
+            "phacoemulsification",
+            "iridotomy",
+            "drops",
+            "vitrectomy",
+            "LASIK",
+            "PRK",
+            "injections",
+            "keratoplasty"
+        ]
+    }, 
+    {
+        "name": "SYMPTOM",
+        "min_thresh": 0.3,
+        "max_thresh": 0.45,
+        "labels": [
+            "blurred", 
+            "tearing", 
+            "pain", 
+            "redness", 
+            "floaters", 
+            "distortion", 
+            "swelling", 
+            "loss"
+        ]
+    },
+    {
+        "name": "CONDITION",
+        "min_thresh": 0.15,
+        "max_thresh": 0.65,
+        "labels": [
+            "cataract", 
+            "glaucoma", 
+            "maculopathy",
+            "ulcer", 
+            "diabetes"
+        ]
+    }
+]

@@ -1,0 +1,56 @@
+{
+    "classes": [
+        "Case Citation",
+        "Person",
+        "Location"
+    ],
+    "annotations": [
+        [
+            "In the landmark case of Smith v. Jones, 456 U.S. 789 (1989), the Supreme Court, under Chief Justice John Roberts, addressed the contentious issue of intellectual property rights in Washington, D.C. The dispute centered on the alleged infringement of a patent held by Dr. Emily Carter, a prominent biotechnologist based in San Francisco, California. Dr. Carter's research, which involved groundbreaking techniques in gene editing, was at the heart of the case. The opposing party, represented by attorney Michael Thompson, argued that the patent was invalid and that the innovations were already in the public domain.\r",
+            {
+                "entities": [
+                    [
+                        24,
+                        59,
+                        "Case Citation"
+                    ],
+                    [
+                        100,
+                        112,
+                        "Person"
+                    ],
+                    [
+                        181,
+                        197,
+                        "Location"
+                    ],
+                    [
+                        267,
+                        283,
+                        "Person"
+                    ],
+                    [
+                        322,
+                        335,
+                        "Location"
+                    ],
+                    [
+                        337,
+                        348,
+                        "Location"
+                    ],
+                    [
+                        349,
+                        359,
+                        "Person"
+                    ],
+                    [
+                        504,
+                        520,
+                        "Person"
+                    ]
+                ]
+            }
+        ]
+    ]
+}

@@ -1,0 +1,68 @@
+[
+    {
+        "name": "Product",
+        "min_thresh": 0.35,
+        "max_thresh": 0.65,
+        "labels": [
+            "Smartphone",
+            "Laptop",
+            "Headphones",
+            "Camera",
+            "Tablet",
+            "Printer",
+            "Watch",
+            "Bicycle",
+            "Speaker",
+            "Microwave"
+        ]
+    },
+    {
+        "name": "Component",
+        "min_thresh": 0.35,
+        "max_thresh": 0.65,
+        "labels": [
+            "Screen",
+            "Battery",
+            "Motherboard",
+            "Keyboard",
+            "Ear Cups",
+            "Driver",
+            "Lens",
+            "Sensor",
+            "Frame",
+            "Processor",
+            "Casing",
+            "Strap",
+            "Crank",
+            "Gears",
+            "Housing",
+            "Control Panel",
+            "Magnetron",
+            "Wires"
+        ]
+    },
+    {
+        "name": "Machine",
+        "min_thresh": 0.5,
+        "max_thresh": 0.75,
+        "labels": [
+            "Cutter",
+            "Moulder",
+            "Assembler",
+            "Tester",
+            "Press",
+            "Solderer",
+            "Mount",
+            "Fabricator",
+            "Driver",
+            "Winder",
+            "Polisher",
+            "Aligner",
+            "Bonding",
+            "Printer",
+            "Lathe",
+            "Welder",
+            "Magnetron"
+        ]
+    }
+]

@@ -18,11 +18,10 @@
   },
   "labels":{
     "ner":[
+      "ANATOMY",
       "CONDITION",
-      "DRUG",
-      "PROCEDURE / TEST",
-      "PROCEDURE / TESTS",
-      "SYMPTOM"
+      "PROCEDURE",
+      "RISK FACTOR"
     ]
   },
   "pipeline":[

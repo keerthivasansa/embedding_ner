@@ -1,0 +1,70 @@
+[
+    {
+        "name": "ANATOMICAL STRUCTURE",
+        "min_thresh": -0.15,
+        "max_thresh": 0.65,
+        "labels": [
+            "Retina",
+            "Cornea",
+            "Macula",
+            "Lens",
+            "Sclera",
+            "Iris",
+            "Optic",
+            "Pupil",
+            "Conjunctiva",
+            "Fovea"
+        ]
+    },
+    {
+        "name": "PROCEDURE",
+        "min_thresh": 0.15,
+        "max_thresh": 0.65,
+        "labels": [
+            "Phacoemulsification",
+            "Iridotomy",
+            "Vitrectomy",
+            "LASIK",
+            "PRK",
+            "Injections",
+            "Keratoplasty",
+            "Capsulotomy",
+            "Trabeculectomy",
+            "Enucleation"
+        ]
+    },
+    {
+        "name": "SYMPTOM",
+        "min_thresh": 0.35,
+        "max_thresh": 0.85,
+        "labels": [
+            "Blurred",
+            "Tearing",
+            "Pain",
+            "Redness",
+            "Floaters",
+            "Distortion",
+            "Swelling",
+            "Loss",
+            "Itching",
+            "Dryness"
+        ]
+    },
+    {
+        "name": "CONDITION",
+        "min_thresh": 0.15,
+        "max_thresh": 0.5,
+        "labels": [
+            "Cataract",
+            "Glaucoma",
+            "Maculopathy",
+            "Ulcer",
+            "Diabetes",
+            "Myopia",
+            "Hyperopia",
+            "Astigmatism",
+            "Retinopathy",
+            "Keratoconus"
+        ]
+    }
+]
