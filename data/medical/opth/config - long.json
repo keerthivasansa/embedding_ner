@@ -1,8 +1,8 @@
 [
     {
         "name": "ANATOMICAL STRUCTURE",
-        "min_thresh": -0.15,
-        "max_thresh": 0.65,
+        "min_thresh": 0.1,
+        "max_thresh": 0.2,
         "labels": [
             "Retina",
             "Cornea",
@@ -18,8 +18,8 @@
     },
     {
         "name": "PROCEDURE",
-        "min_thresh": 0.15,
-        "max_thresh": 0.65,
+        "min_thresh": 0.1,
+        "max_thresh": 0.2,
         "labels": [
             "Phacoemulsification",
             "Iridotomy",
@@ -35,8 +35,8 @@
     },
     {
         "name": "SYMPTOM",
-        "min_thresh": 0.35,
-        "max_thresh": 0.85,
+        "min_thresh": 0.1,
+        "max_thresh": 0.2,
         "labels": [
             "Blurred",
             "Tearing",
@@ -52,8 +52,8 @@
     },
     {
         "name": "CONDITION",
-        "min_thresh": 0.15,
-        "max_thresh": 0.5,
+        "min_thresh": 0.1,
+        "max_thresh": 0.2,
         "labels": [
             "Cataract",
             "Glaucoma",
